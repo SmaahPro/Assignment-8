@@ -67,7 +67,7 @@ const AboutPage = () => {
 
                             <div className="mt-8 flex flex-col sm:flex-row gap-4">
                                 <Link
-                                    href="/allanimals"
+                                    href="/animals"
                                     className="px-8 py-3 rounded-xl bg-gradient-to-r from-amber-400 to-orange-500 hover:from-amber-500 hover:to-orange-600 text-black font-semibold transition shadow-lg hover:scale-105 text-center"
                                 >
                                     Browse Animals
