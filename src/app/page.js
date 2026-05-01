@@ -1,8 +1,11 @@
-import Image from "next/image";
+"use client";
+
+import Footer from "@/components/shared/Footer";
 
 export default function Home() {
-  return (
-    <div> Hello World
-    </div>
-  );
+    return (
+        <div>
+            <Footer />
+        </div>
+    );
 }
