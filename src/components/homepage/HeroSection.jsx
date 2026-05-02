@@ -39,7 +39,7 @@ const HeroSection = () => {
     }, []);
 
     return (
-        <section className="bg-slate-950 py-13 px-4">
+        <section className="bg-slate-950 py-15 px-4">
             <div className="max-w-6xl mx-auto bg-slate-900 border border-slate-800 rounded-3xl overflow-hidden relative shadow-xl">
 
                 <div className="absolute top-0 left-0 w-48 h-48 bg-emerald-500/10 blur-3xl rounded-full"></div>
