@@ -6,6 +6,7 @@ import HeroSection from "@/components/homepage/HeroSection";
 import ExtraSection from "@/components/homepage/ExtraSection";
 import FeaturedAnimals from "@/components/homepage/FeaturedAnimals";
 
+
 export default function Home() {
   return (
     <div>
