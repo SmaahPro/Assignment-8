@@ -4,10 +4,10 @@ import { FaXTwitter, FaThreads } from "react-icons/fa6";
 
 const Footer = () => {
     return (
-        <footer className="bg-slate-950 text-white mt-10">
+        <footer className="bg-slate-950 text-white">
             <div className="h-[2px] bg-gradient-to-r from-pink-500 via-purple-500 to-cyan-500"></div>
 
-            <div className="max-w-7xl mx-auto px-6 md:px-10 py-16">
+            <div className="max-w-7xl mx-auto px-6 md:px-10 py-12">
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
                     <div>
