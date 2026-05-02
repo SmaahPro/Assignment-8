@@ -9,7 +9,7 @@
         "age": 3,
         "location": "Dhaka",
         "description": "Healthy and calm cow suitable for Qurbani, fed only with organic grass and straw.",
-        "image": "https://i.postimg.cc/k4W0G121/cow1.jpg",
+        "image": "https://images.pexels.com/photos/15840767/pexels-photo-15840767.jpeg",
         "category": "Large Animal"
     },
     {
@@ -22,7 +22,7 @@
         "age": 2,
         "location": "Khulna",
         "description": "Active and robust Red Chittagong breed, perfect for small to medium family Qurbani.",
-        "image": "https://i.postimg.cc/zX74Vb10/cow2.jpg",
+        "image": "https://images.pexels.com/photos/34225361/pexels-photo-34225361.jpeg",
         "category": "Medium Animal"
     },
     {
@@ -35,7 +35,7 @@
         "age": 4,
         "location": "Sirajganj",
         "description": "Majestic Sahiwal bull with excellent build and temperament.",
-        "image": "https://i.postimg.cc/X5k8d999/cow3.jpg",
+        "image": "https://images.pexels.com/photos/32432722/pexels-photo-32432722.jpeg",
         "category": "Large Animal"
     },
     {
@@ -48,7 +48,7 @@
         "age": 3,
         "location": "Pabna",
         "description": "Traditional Pabna breed, well-known for its beautiful coat and health.",
-        "image": "https://i.postimg.cc/89q2w221/cow4.jpg",
+        "image": "https://images.pexels.com/photos/7014367/pexels-photo-7014367.jpeg",
         "category": "Medium Animal"
     },
     {
@@ -61,7 +61,7 @@
         "age": 5,
         "location": "Mymensingh",
         "description": "Huge Brahman-cross bull, extremely well-fed for heavy-weight Qurbani requirements.",
-        "image": "https://i.postimg.cc/j3k1m922/cow5.jpg",
+        "image": "https://images.pexels.com/photos/29548163/pexels-photo-29548163.jpeg",
         "category": "Large Animal"
     },
     {
@@ -74,7 +74,7 @@
         "age": 3,
         "location": "Rajshahi",
         "description": "Beautiful, healthy, and highly energetic Sahiwal cow from Rajshahi.",
-        "image": "https://i.postimg.cc/2m1l3k91/cow6.jpg",
+        "image": "https://images.pexels.com/photos/32474663/pexels-photo-32474663.jpeg",
         "category": "Large Animal"
     },
     {
@@ -87,7 +87,7 @@
         "age": 3,
         "location": "Rangpur",
         "description": "Excellent dual-purpose type with well-maintained health and appearance.",
-        "image": "https://i.postimg.cc/4n2m8k23/cow7.jpg",
+        "image": "https://images.pexels.com/photos/33754999/pexels-photo-33754999.jpeg",
         "category": "Large Animal"
     },
     {
@@ -100,7 +100,7 @@
         "age": 2,
         "location": "Sylhet",
         "description": "Small, compact, and completely organic fed local Sylheti bull.",
-        "image": "https://i.postimg.cc/9k3l2n00/cow8.jpg",
+        "image": "https://images.pexels.com/photos/30010795/pexels-photo-30010795.jpeg",
         "category": "Medium Animal"
     },
     {
@@ -113,7 +113,7 @@
         "age": 4,
         "location": "Kushtia",
         "description": "Sturdy Hariana crossbreed showing excellent body development.",
-        "image": "https://i.postimg.cc/8v6m5k32/cow9.jpg",
+        "image": "https://images.pexels.com/photos/9808496/pexels-photo-9808496.jpeg",
         "category": "Large Animal"
     },
     {
@@ -126,7 +126,7 @@
         "age": 2,
         "location": "Barishal",
         "description": "Very calm and beautiful deshi cow, perfect for small budgets.",
-        "image": "https://i.postimg.cc/1x2c3v4b/cow10.jpg",
+        "image": "https://images.pexels.com/photos/10403504/pexels-photo-10403504.jpeg",
         "category": "Medium Animal"
     },
     {
@@ -139,7 +139,7 @@
         "age": 3,
         "location": "Cumilla",
         "description": "Attractive Sahiwal cross with a calm temperament and great build.",
-        "image": "https://i.postimg.cc/5n6m7k89/cow11.jpg",
+        "image": "https://images.pexels.com/photos/15686229/pexels-photo-15686229.jpeg",
         "category": "Large Animal"
     },
     {
@@ -152,12 +152,12 @@
         "age": 3,
         "location": "Faridpur",
         "description": "Healthy and energetic deshi cross cow with a bright and smooth coat.",
-        "image": "https://i.postimg.cc/0v9m8k76/cow12.jpg",
+        "image": "https://images.pexels.com/photos/21787640/pexels-photo-21787640.jpeg",
         "category": "Medium Animal"
     },
     {
         "id": 13,
-        "name": "Dinajpur Dream",
+        "name": "Dinajpur Raja",
         "type": "Cow",
         "breed": "Holstein Mix",
         "price": 220000,
@@ -165,7 +165,7 @@
         "age": 4,
         "location": "Dinajpur",
         "description": "Holstein mix, very large frame and perfectly suited for heavy weight Qurbani.",
-        "image": "https://i.postimg.cc/9m8k7l65/cow13.jpg",
+        "image": "https://images.pexels.com/photos/10997837/pexels-photo-10997837.jpeg",
         "category": "Large Animal"
     },
     {
@@ -178,7 +178,7 @@
         "age": 2,
         "location": "Tangail",
         "description": "Jamuna river basin deshi bull, highly active and well-fed.",
-        "image": "https://i.postimg.cc/3k4l5m6n/cow14.jpg",
+        "image": "https://images.pexels.com/photos/33755002/pexels-photo-33755002.jpeg",
         "category": "Medium Animal"
     },
     {
@@ -191,7 +191,7 @@
         "age": 4,
         "location": "Bogura",
         "description": "Stout Sahiwal breed, very healthy and well-fed with natural grains.",
-        "image": "https://i.postimg.cc/1n2m3k4l/cow15.jpg",
+        "image": "https://images.pexels.com/photos/30733363/pexels-photo-30733363.jpeg",
         "category": "Large Animal"
     },
     {
@@ -204,7 +204,7 @@
         "age": 2,
         "location": "Meherpur",
         "description": "Small deshi cow raised in a very clean environment.",
-        "image": "https://i.postimg.cc/5k6l7m8n/cow16.jpg",
+        "image": "https://images.pexels.com/photos/32062847/pexels-photo-32062847.jpeg",
         "category": "Medium Animal"
     },
     {
@@ -217,7 +217,7 @@
         "age": 3,
         "location": "Pirojpur",
         "description": "Friendly and calm deshi animal raised organically.",
-        "image": "https://i.postimg.cc/8n9m0k1l/cow17.jpg",
+        "image": "https://images.pexels.com/photos/15589130/pexels-photo-15589130.jpeg",
         "category": "Medium Animal"
     },
     {
@@ -230,7 +230,7 @@
         "age": 3,
         "location": "Jessore",
         "description": "Powerful and well-structured Sahiwal cross from Jessore.",
-        "image": "https://i.postimg.cc/2l3m4n5o/cow18.jpg",
+        "image": "https://images.pexels.com/photos/27661939/pexels-photo-27661939.jpeg",
         "category": "Large Animal"
     },
     {
@@ -243,7 +243,7 @@
         "age": 2,
         "location": "Kishoreganj",
         "description": "Active and robust deshi cow, great for medium-sized Qurbani.",
-        "image": "https://i.postimg.cc/6n7o8p9q/cow19.jpg",
+        "image": "https://images.pexels.com/photos/30264563/pexels-photo-30264563.jpeg",
         "category": "Medium Animal"
     },
     {
@@ -256,7 +256,7 @@
         "age": 3,
         "location": "Pabna",
         "description": "Beautiful Pabna red bull with excellent meat quality and build.",
-        "image": "https://i.postimg.cc/0p1q2r3s/cow20.jpg",
+        "image": "https://images.pexels.com/photos/37279736/pexels-photo-37279736.jpeg",
         "category": "Large Animal"
     },
     {
@@ -269,7 +269,7 @@
         "age": 1,
         "location": "Feni",
         "description": "Healthy and active deshi sheep, fed entirely on natural grass.",
-        "image": "https://i.postimg.cc/3r4s5t6u/sheep1.jpg",
+        "image": "https://images.pexels.com/photos/7177226/pexels-photo-7177226.jpeg",
         "category": "Small Animal"
     },
     {
@@ -282,7 +282,7 @@
         "age": 2,
         "location": "Noakhali",
         "description": "Well-fatted Noakhali sheep, very friendly and healthy.",
-        "image": "https://i.postimg.cc/6t7u8v9w/sheep2.jpg",
+        "image": "https://images.pexels.com/photos/36616229/pexels-photo-36616229.jpeg",
         "category": "Small Animal"
     },
     {
@@ -295,7 +295,7 @@
         "age": 2,
         "location": "Pabna",
         "description": "Large and robust ram with great wool and health.",
-        "image": "https://i.postimg.cc/9w0x1y2z/sheep3.jpg",
+        "image": "https://images.pexels.com/photos/22748633/pexels-photo-22748633.jpeg",
         "category": "Small Animal"
     },
     {
@@ -308,7 +308,7 @@
         "age": 1,
         "location": "Dhaka",
         "description": "Pure Black Bengal goat, very energetic and well-fed.",
-        "image": "https://i.postimg.cc/1y2z3a4b/goat1.jpg",
+        "image": "https://images.pexels.com/photos/7340072/pexels-photo-7340072.jpeg",
         "category": "Small Animal"
     },
     {
@@ -321,7 +321,7 @@
         "age": 2,
         "location": "Rajshahi",
         "description": "Premium Black Bengal goat suitable for Qurbani or breeding.",
-        "image": "https://i.postimg.cc/4b5c6d7e/goat2.jpg",
+        "image": "https://images.pexels.com/photos/19178096/pexels-photo-19178096.jpeg",
         "category": "Small Animal"
     },
     {
@@ -334,7 +334,7 @@
         "age": 2,
         "location": "Khulna",
         "description": "Tall Jamnapari cross goat, very healthy with a strong build.",
-        "image": "https://i.postimg.cc/7e8f9g0h/goat3.jpg",
+        "image": "https://images.pexels.com/photos/32386323/pexels-photo-32386323.jpeg",
         "category": "Small Animal"
     },
     {
@@ -347,12 +347,12 @@
         "age": 2,
         "location": "Dinajpur",
         "description": "Authentic Jamnapari goat from Dinajpur, excellent for Qurbani.",
-        "image": "https://i.postimg.cc/0h1i2j3k/goat4.jpg",
+        "image": "https://images.pexels.com/photos/12586347/pexels-photo-12586347.jpeg",
         "category": "Small Animal"
     },
     {
         "id": 28,
-        "name": "Rangpur White",
+        "name": "Shikhitto Khasi",
         "type": "Goat",
         "breed": "Deshi",
         "price": 15000,
@@ -360,7 +360,7 @@
         "age": 1,
         "location": "Rangpur",
         "description": "Small white deshi goat, perfectly raised on natural diet.",
-        "image": "https://i.postimg.cc/3k4l5m6n/goat5.jpg",
+        "image": "https://images.pexels.com/photos/36813366/pexels-photo-36813366.jpeg",
         "category": "Small Animal"
     },
     {
@@ -373,7 +373,7 @@
         "age": 1,
         "location": "Sylhet",
         "description": "Healthy and well-mannered goat with shiny coat from Sylhet.",
-        "image": "https://i.postimg.cc/6n7o8p9q/goat6.jpg",
+        "image": "https://images.pexels.com/photos/29932546/pexels-photo-29932546.jpeg",
         "category": "Small Animal"
     },
     {
@@ -386,7 +386,7 @@
         "age": 4,
         "location": "Bogura",
         "description": "Stunning Brahman bull with broad chest and great health.",
-        "image": "https://images.pexels.com/photos/33755002/pexels-photo-33755002.jpeg",
+        "image": "https://images.pexels.com/photos/17310561/pexels-photo-17310561.jpeg",
         "category": "Large Animal"
     }
 ]
