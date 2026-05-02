@@ -167,7 +167,7 @@ const AllAnimalsSection = () => {
                                         BDT {formatPrice(animal.price)}
                                     </div>
 
-                                    <Link href={`/animals/${animal.id}`}>
+                                    <Link href={`/details-page/${animal.id}`}>
                                         <button className="w-full flex items-center justify-center gap-2 py-1.5 bg-slate-800 hover:bg-emerald-500 rounded-lg text-white text-sm transition-all duration-300">
                                             <Eye size={13} />
                                             View Details

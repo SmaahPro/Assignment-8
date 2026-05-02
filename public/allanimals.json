@@ -300,7 +300,7 @@
     },
     {
         "id": 24,
-        "name": "Dhaka Chhagol",
+        "name": "Shikhitto Khasi",
         "type": "Goat",
         "breed": "Black Bengal",
         "price": 18000,
@@ -308,7 +308,7 @@
         "age": 1,
         "location": "Dhaka",
         "description": "Pure Black Bengal goat, very energetic and well-fed.",
-        "image": "https://images.pexels.com/photos/7340072/pexels-photo-7340072.jpeg",
+        "image": "https://images.pexels.com/photos/36813366/pexels-photo-36813366.jpeg",
         "category": "Small Animal"
     },
     {
@@ -352,7 +352,7 @@
     },
     {
         "id": 28,
-        "name": "Shikhitto Khasi",
+        "name": "Dhakki Chhagol",
         "type": "Goat",
         "breed": "Deshi",
         "price": 15000,
@@ -360,7 +360,7 @@
         "age": 1,
         "location": "Rangpur",
         "description": "Small white deshi goat, perfectly raised on natural diet.",
-        "image": "https://images.pexels.com/photos/36813366/pexels-photo-36813366.jpeg",
+        "image": "https://images.pexels.com/photos/7340072/pexels-photo-7340072.jpeg",
         "category": "Small Animal"
     },
     {
