@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { MapPin, Calendar, Weight, Eye } from "lucide-react";
+import "animate.css";
 
 const AllAnimalsSection = () => {
     const [animals, setAnimals] = useState([]);
@@ -66,9 +67,9 @@ const AllAnimalsSection = () => {
     }
 
     return (
-        <div className="bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 min-h-screen">
+        <div className="bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 min-h-screen animate__animated animate__fadeIn animate__faster">
 
-            <div className="pt-12 pb-4">
+            <div className="pt-12 pb-4 animate__animated animate__fadeInDown">
                 <div className="max-w-7xl mx-auto px-4 md:px-8">
                     <h1 className="text-3xl font-bold text-white text-center">
                         All Animals for <span className="text-emerald-400">Qurbani</span>
@@ -78,7 +79,7 @@ const AllAnimalsSection = () => {
 
             <div className="max-w-7xl mx-auto px-4 md:px-8 py-6">
 
-                <div className="mt-4 mb-8">
+                <div className="mt-4 mb-8 animate__animated animate__fadeInUp animate__delay-0.2s">
                     <div className="flex flex-col md:flex-row gap-3">
                         <input
                             type="text"
@@ -111,20 +112,24 @@ const AllAnimalsSection = () => {
                     </div>
                 </div>
 
-                <div className="mb-6">
+                <div className="mb-6 animate__animated animate__fadeIn animate__delay-0.3s">
                     <p className="text-slate-400 text-sm">
                         Showing <span className="text-emerald-400 font-semibold">{filteredAnimals.length}</span> animals
                     </p>
                 </div>
 
                 {filteredAnimals.length === 0 ? (
-                    <div className="text-center py-20 bg-slate-900/50 rounded-xl border border-slate-800">
+                    <div className="text-center py-20 bg-slate-900/50 rounded-xl border border-slate-800 animate__animated animate__zoomIn animate__delay-0.4s">
                         <p className="text-slate-400">No animals found.</p>
                     </div>
                 ) : (
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
-                        {filteredAnimals.map((animal) => (
-                            <div key={animal.id} className="group bg-slate-900 rounded-xl overflow-hidden border border-black hover:border-black transition-all duration-300 hover:shadow-lg hover:shadow-emerald-500/10">
+                        {filteredAnimals.map((animal, index) => (
+                            <div
+                                key={animal.id}
+                                className="group bg-slate-900 rounded-xl overflow-hidden border border-black hover:border-black transition-all duration-300 hover:shadow-lg hover:shadow-emerald-500/10 animate__animated animate__fadeInUp"
+                                style={{ animationDelay: `${index * 0.05}s` }}
+                            >
 
                                 <div className="relative h-48 overflow-hidden bg-slate-800">
                                     <img
