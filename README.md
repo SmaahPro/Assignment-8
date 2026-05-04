@@ -1,1 +1,0 @@
-# QurbaniHat – Livestock Booking Platform
